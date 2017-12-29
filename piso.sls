@@ -1,4 +1,4 @@
-PISO_x64:
+PISO:
   '7.0':
     full_name: "PowerISOImageBurner"
     installer: "http://10.34.38.222/PowerISO7-x64.exe"
